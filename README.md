@@ -1,3 +1,3 @@
-# codeql
+# ql-fun
 
-c++ project to show case codeql automated scanning setup
+Examples of vulnerable code that can be detected by CodeQL queries.
